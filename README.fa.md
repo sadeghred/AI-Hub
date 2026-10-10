@@ -63,7 +63,7 @@ AI-Hub زیرساخت مرکزی عملیاتی و در حال توسعه است
 ## تماس
 
 - تلگرام: [@Sadeghred](https://t.me/Sadeghred)
-- ایمیل: **پس از تأیید آدرس عمومی اضافه می‌شود.**
+- ایمیل: [sadeghred@gmail.com](mailto:sadeghred@gmail.com)
 
 ---
 © 2026 AI-Hub Project

@@ -69,7 +69,7 @@ AI-Hub is operational central infrastructure and is being integrated progressive
 ## Contact
 
 - Telegram: [@Sadeghred](https://t.me/Sadeghred)
-- Email: **Public email will be added after confirmation.**
+- Email: [sadeghred@gmail.com](mailto:sadeghred@gmail.com)
 
 ---
 © 2026 AI-Hub Project
